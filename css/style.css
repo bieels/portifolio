@@ -260,13 +260,13 @@ ul {
 }
 
 .aside .nav li a:hover{
-margin-left: 1.7rem;
+margin-left: 1.5rem;
 }
 
 .aside .nav li a.active {
   color: var(--skin-color);
-  font-size: 20px;
-  margin-left: 2rem;
+  scale: .98;
+  margin-left: 1.7rem;
 }
 
 .aside .nav li a i {
